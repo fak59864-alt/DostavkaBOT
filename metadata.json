@@ -1,0 +1,6 @@
+{
+  "name": "Q-Drop: Last-Mile Logistics",
+  "description": "Экономический стратег-симулятор городской курьерской службы и дарксторов в стиле iOS 18 для Telegram Mini App.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
